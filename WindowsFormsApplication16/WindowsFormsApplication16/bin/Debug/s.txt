@@ -1,0 +1,39 @@
+13
+eskisehir
+ankara
+cankiri
+kirsehir
+konya
+nevsehir
+aksaray
+nigde
+yozgat
+kayseri
+sivas
+kirikkale
+karaman
+eskisehir ankara
+eskisehir konya
+ankara konya
+ankara cankiri
+ankara kirikkale
+ankara kirsehir
+ankara aksaray
+konya aksaray
+konya karaman
+konya nigde
+cankiri kirikkale
+kirikkale kirsehir
+kirikkale yozgat
+kirsehir yozgat
+kirsehir nevsehir
+kirsehir aksaray
+aksaray nigde
+aksaray nevsehir
+nevsehir yozgat
+nevsehir nigde
+nevsehir kayseri
+nigde kayseri
+yozgat kayseri
+yozgat sivas
+kayseri sivas

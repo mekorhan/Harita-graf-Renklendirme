@@ -1,0 +1,3 @@
+C:\Users\macun\Documents\Visual Studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe.config
+C:\Users\macun\Documents\Visual Studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.exe
+C:\Users\macun\Documents\Visual Studio 2015\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.pdb
